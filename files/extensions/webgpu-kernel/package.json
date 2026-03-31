@@ -1,0 +1,18 @@
+{
+    "name": "@webgpu-trainer/kernel",
+    "version": "0.1.0",
+    "description": "WebGPU training kernel for JupyterLite",
+    "keywords": ["jupyter", "jupyterlab", "jupyterlite"],
+    "homepage": "",
+    "license": "MIT",
+    "main": "src/index.js",
+    "files": ["src/"],
+    "jupyterlab": {
+      "extension": "./src/index.js",
+      "outputDir": "webgpu_kernel/labextension",
+      "sharedPackages": {
+        "@jupyterlab/application": { "bundled": false, "singleton": true },
+        "@jupyterlite/kernel": { "bundled": false, "singleton": true }
+      }
+    }
+  }

@@ -1,0 +1,71 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-03-30T15:22:13.916406Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-03-30T14:57:52.988529Z",
+      "mimetype": null,
+      "name": "train.ipynb",
+      "path": "files/train.ipynb",
+      "size": 2191,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-03-30T14:35:54.401703Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-03-30T14:35:54.401703Z",
+      "mimetype": null,
+      "name": "data",
+      "path": "files/data",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-03-31T01:43:23.746939Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-03-31T01:43:23.746939Z",
+      "mimetype": null,
+      "name": "trainer",
+      "path": "files/trainer",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-03-30T15:22:13.916902Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-03-30T15:04:24.149930Z",
+      "mimetype": null,
+      "name": "train_working.ipynb",
+      "path": "files/train_working.ipynb",
+      "size": 2191,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2026-03-30T15:22:13.916531Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-03-30T15:22:13.916531Z",
+  "mimetype": null,
+  "name": "files",
+  "path": "files",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

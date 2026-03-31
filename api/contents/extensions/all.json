@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-03-30T14:31:02.753004Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-03-30T14:31:02.753004Z",
+      "mimetype": null,
+      "name": "webgpu-kernel",
+      "path": "extensions/webgpu-kernel",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    }
+  ],
+  "created": "2026-03-30T14:31:02.752693Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-03-30T14:31:02.752693Z",
+  "mimetype": null,
+  "name": "extensions",
+  "path": "extensions",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

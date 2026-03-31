@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-03-31T01:43:23.747290Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-03-30T15:52:35.359157Z",
+      "mimetype": "text/javascript",
+      "name": "engine.js",
+      "path": "files/trainer/engine.js",
+      "size": 36750,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2026-03-31T01:43:23.746939Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-03-31T01:43:23.746939Z",
+  "mimetype": null,
+  "name": "trainer",
+  "path": "files/trainer",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
