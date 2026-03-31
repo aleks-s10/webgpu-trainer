@@ -2,20 +2,6 @@
   "content": [
     {
       "content": null,
-      "created": "2026-03-31T03:53:17.013048Z",
-      "format": null,
-      "hash": null,
-      "hash_algorithm": null,
-      "last_modified": "2026-03-31T03:53:07.965579Z",
-      "mimetype": null,
-      "name": "train.ipynb",
-      "path": "files/train.ipynb",
-      "size": 2243,
-      "type": "notebook",
-      "writable": true
-    },
-    {
-      "content": null,
       "created": "2026-03-30T14:35:54.401703Z",
       "format": null,
       "hash": null,
@@ -57,11 +43,11 @@
       "writable": true
     }
   ],
-  "created": "2026-03-31T03:53:17.012878Z",
+  "created": "2026-03-31T04:02:19.190719Z",
   "format": "json",
   "hash": null,
   "hash_algorithm": null,
-  "last_modified": "2026-03-31T03:53:17.012878Z",
+  "last_modified": "2026-03-31T04:02:19.190719Z",
   "mimetype": null,
   "name": "files",
   "path": "files",

@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-03-31T04:02:34.350398Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-03-30T14:35:47.708169Z",
+      "mimetype": "application/json",
+      "name": "train_chunks.json",
+      "path": "data/train_chunks.json",
+      "size": 5976382,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-03-31T04:02:34.347773Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-03-30T14:35:50.484303Z",
+      "mimetype": "application/json",
+      "name": "tokenizer.json",
+      "path": "data/tokenizer.json",
+      "size": 1046,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2026-03-31T04:02:34.348050Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-03-31T04:02:34.348050Z",
+  "mimetype": null,
+  "name": "data",
+  "path": "data",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
